@@ -1,6 +1,6 @@
 ---
-title: Nolan Reilly
-description: A repository of school projects 
+Title: Nolan Reilly
+Description: A repository of school projects 
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
