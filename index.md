@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Nolan Reilly
+description: A repository of school projects 
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
