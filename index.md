@@ -5,4 +5,4 @@ Description: A repository of school projects
 
 This is content I have developed for my courses:
 
-- [Basic Matplotlib Graphing](/Graphing/index.md)
+- [Basic Matplotlib Graphing](/graphing/index.md)
