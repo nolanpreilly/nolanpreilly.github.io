@@ -8,3 +8,6 @@ Description: A repository of school projects
 This is content I have developed for my courses:
 
 - [Basic Matplotlib Graphing](/graphing/index.md)
+
+This is a link to a sample repository:
+- [sample repository](https://github.com/nolanpreilly/sample)
