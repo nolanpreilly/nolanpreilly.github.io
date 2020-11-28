@@ -9,7 +9,7 @@ This is content I have developed for my courses:
 
 - [Basic Matplotlib Graphing](/graphing/index.md)
 
-- [Programming Exercise for Shortest Path Calculations] (/shortest_path/index.md)
+- [Programming Exercise for Shortest Path Calculations](/shortest_path/index.md)
 
 This is a link to a sample repository:
 - [sample repository](https://github.com/nolanpreilly/sample)
