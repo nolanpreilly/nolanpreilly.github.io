@@ -9,6 +9,6 @@ This is content I have developed throughtout my courses and personal project:
 
 - [Basic Matplotlib Graphing](/graphing/index.md)
 
-- [Optimization](/shortest_path/index.md)
+- [Optimization](/optimization/index.md)
 
 
