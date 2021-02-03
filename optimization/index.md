@@ -3,6 +3,7 @@ Title: Optimization Projects
 ---
 
 ![Optimization Picture](/pics/optimization.jpeg)
+<img src="/pics/optimization.jpeg" width="40%">
 
 The projects listed below showcase the ability to solve optimization problems with programming:
 
